@@ -17,7 +17,7 @@ screenshot.png, shows an example dataset (iris.csv, also included) visualized
 in two scatterplots with a subset of points highlighted in both.
 
 
-Build and Run
+Build and run
 =============
 
 This project requires java development kit, which you should be able to install
