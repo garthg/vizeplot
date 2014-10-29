@@ -46,6 +46,6 @@ WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with
-AntislaveryPetitionsDataverse.  If not, see <http://www.gnu.org/licenses/>.
+Vizeplot.  If not, see <http://www.gnu.org/licenses/>.
 
 Please see the file LICENSE for the license text.
