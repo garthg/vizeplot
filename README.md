@@ -2,6 +2,7 @@ Vizeplot
 ========
 
 Author: Garth Griffin (http://garthgriffin.com)
+
 Date: Created November 2010, released October 2014.
 
 Vizeplot is a tool for multidimensional exploration of datasets. You can load
